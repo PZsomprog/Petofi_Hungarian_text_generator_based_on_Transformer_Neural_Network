@@ -1,4 +1,6 @@
-# Petofi_Hungarian_text_generator_based_on_Transformer_Neural_Network
+# Petofi_Hungarian_text_generator
+
+Szilard Novoth, Zsombor Pancsics
 
 The repository contains 2 functions:
 
